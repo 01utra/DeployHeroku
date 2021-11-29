@@ -15,7 +15,7 @@
 	<name>utra</name>
 	<description>Projeto utra</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>16.0.1</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
